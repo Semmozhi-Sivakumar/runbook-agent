@@ -63,10 +63,6 @@ The Runbook Following Agent automates these repetitive operational tasks while m
 - Maintains execution history for operational visibility.
 
 ---
-
-## Architecture
-
-```text
 Runbook (Markdown)
         │
         ▼
@@ -76,21 +72,28 @@ Runbook Parser
 Step Extraction
         │
         ▼
-Command Mapping
+COMMAND_MAP Validation
         │
         ▼
-Safety Validation
+Risk Assessment
         │
         ▼
-Approval Check
+Approval Workflow
+        │
+        ▼
+MCP Client
+        │
+        ▼
+MCP Server Allowlist
         │
         ▼
 Command Execution
         │
         ▼
+Audit Logging
+        │
+        ▼
 Report Generation
-```
-
 ---
 
 ## Technology Stack
