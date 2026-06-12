@@ -297,6 +297,6 @@ Generate cleanup recommendations
 ## Author
 
 Semmozhi Sivakumar
-
-GitHub:
-https://github.com/Semmozhi-Sivakumar
+Nihanya.K
+Sasmita.R
+Subha.M
