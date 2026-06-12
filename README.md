@@ -297,6 +297,6 @@ Generate cleanup recommendations
 ## Authors
 
 -Semmozhi Sivakumar
--Nihanya.K
+-Nithanya.K
 -Sasmita.R
 -Subha.M
